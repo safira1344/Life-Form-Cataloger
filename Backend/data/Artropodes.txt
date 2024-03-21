@@ -1,0 +1,8 @@
+Aranha;Araneae;Aracnídeo com oito patas, presas e glândulas produtoras de seda para construção de teias.
+Formiga;Formicidae;Inseto social com seis patas, corpo dividido em segmentos e um complexo sistema de castas.
+Borboleta;Lepidoptera;Inseto com asas coloridas, uma probóscide para se alimentar de néctar e um ciclo de vida metamórfico completo.
+Besouro;Coleoptera;Inseto com élitros (asas anteriores) rígidos, peças bucais mastigadoras e uma ampla variedade de espécies.
+Caranguejo;Decapoda;Crustáceo com carapaça larga, dez patas e adaptado para habitats terrestres e aquáticos.
+Centopeia;Chilopoda;Miriápode com muitas pernas (até centenas), presas venenosas e corpo achatado.
+Escorpião;Scorpiones;Aracnídeo com corpo segmentado, pinças e um ferrão venenoso na ponta da cauda.
+Mosquito;Culicidae;Inseto com probóscide longa para se alimentar de sangue, duas asas e um papel na transmissão de doenças.

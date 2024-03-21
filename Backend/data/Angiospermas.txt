@@ -1,0 +1,10 @@
+Girassol;Helianthus annuus;Planta alta com flores grandes e amarelas.
+Lírio;Lilium spp.;Planta com flores grandes e coloridas.
+Roseira;Rosa spp.;Arbusto com flores perfumadas e espinhos no caule.
+Macieira;Malus domestica;Árvore frutífera com flores brancas e frutos rosados ou vermelhos.
+Feijão-carioca;Phaseolus vulgaris;Planta trepadeira com flores brancas ou roxas e frutos em forma de vagem.
+Trigo;Triticum aestivum;Planta alta com flores em espigas e grãos utilizados na produção de farinha.
+Orquídea;Orchidaceae;Planta epífita com flores coloridas e complexas.
+Carvalho;Quercus spp.;Árvore frondosa com folhas caducas e frutos em forma de bolota.
+Bambu;Bambusoideae;Planta com caule lenhoso e folhas em forma de lâmina.
+Alface;Lactuca sativa;Planta hortícola com folhas verdes e flores amarelas.

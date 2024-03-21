@@ -1,0 +1,10 @@
+Samambaia;Polypodiopsida;Folhas grandes e compostas, geralmente com esporângios na parte inferior.
+Avenca;Pteridaceae;Folhas finas e delicadas, geralmente com esporângios na parte inferior.
+Cavalinhas;Equisetopsida;Caule articulado e ramificado, com esporângios em cones na extremidade dos galhos.
+Xaxim;Dicksonia sellowiana;Samambaia arbórea com tronco alto e frondoso.
+Samambaiaçu;Alsophila atrovirens;Samambaia trepadeira com folhas longas e pinadas.
+Feto-de-cachorro;Anogramma leptophylla;Samambaia pequena com folhas em forma de língua.
+Língua-de-vaca;Ophioglossum reticulatum;Planta com folhas simples e sem nervuras, com esporângios em espigas.
+Adiantum capillus-veneris;Adiantum capillus-veneris;Samambaia com folhas finas e delicadas, em forma de leque.
+Marsilea quadrifolia;Marsilea quadrifolia;Planta aquática com folhas em forma de trevo.
+Azolla filiculoides;Azolla filiculoides;Planta aquática flutuante com folhas em forma de escamas.

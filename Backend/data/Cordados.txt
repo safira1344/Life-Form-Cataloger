@@ -1,2 +1,17 @@
-gato
-cachorro
+Peixe-palhaço;Amphiprioninae;Vive em simbiose com anêmonas-do-mar.
+Tartaruga marinha;Cheloniidae;Animal marinho com carapaça dura.
+Rã;Anura;Pele úmida e lisa, sem escamas.
+Sapo;Anura;Pele úmida e rugosa, sem escamas.
+Cobra;Serpentes;Corpo alongado sem patas.
+Lagarto;Lacertilia;Corpo alongado com patas.
+Crocodilo;Crocodylidae;Corpo alongado com patas e focinho longo.
+Pinguim;Spheniscidae;Não voa, mas nada muito bem.
+Avestruz;Struthio camelus;Maior ave viva, não voa.
+Morcego;Chiroptera;Único mamífero que voa.
+Cachorro;Canis lupus familiaris;Carnivora domesticada, conhecida por sua lealdade aos humanos.
+Gato;Felis catus;Carnivora domesticada com pelagem variada e comportamento independente.
+Elefante Africano;Loxodonta africana;Maior mamífero terrestre, com orelhas grandes e presas curvadas.
+Tigre;Panthera tigris;Grande felino com listras distintas, encontrado em várias regiões da Ásia.
+Golfinho;Delphinidae;Inteligente, conhecido por sua comunicação e acrobacias na água.
+Orangotango;Pongo;Grande primata arbóreo, encontrado nas florestas tropicais do Sudeste Asiático.
+Baleia Jubarte;Megaptera novaeangliae;Cetáceo com barbatanas peitorais longas e conhecido por seus saltos espetaculares.

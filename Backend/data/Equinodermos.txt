@@ -1,0 +1,10 @@
+Ouriço-do-mar;Strongylocentrotus spp.;Animal com espinhos e um sistema ambulacral.
+Estrela-do-mar;Asteroidea;Animal com cinco braços e um sistema ambulacral.
+Pepino-do-mar;Holothuroidea;Animal com corpo alongado e sem braços.
+Lírio-do-mar;Crinoidea;Animal com corpo em forma de cálice e braços longos.
+Ophiuroidea;Ophiuroidea;Animal com corpo em forma de disco e braços longos e flexíveis.
+Concentrotus;Concentrotus spp.;Animal com espinhos longos e ovais.
+Echinocardium cordatum;Echinocardium cordatum;Animal com forma de coração e um sistema ambulacral reduzido.
+Mellita quinquiesperforata;Mellita quinquiesperforata;Animal com forma de disco e cinco perfurações no topo.
+Psammechinus miliaris;Psammechinus miliaris;Animal com espinhos curtos e um sistema ambulacral bem desenvolvido.
+Spatangus purpureus;Spatangus purpureus;Animal com forma de concha e um sistema ambulacral reduzido.

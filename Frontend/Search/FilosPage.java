@@ -71,7 +71,8 @@ public class FilosPage extends JFrame {
 
     private void buttonAction(String filo) {
         super.dispose();
-        new ClassesPage(filo);
+        // new ClassesPage(filo);
+        new EspeciesPage(filo);
     }
 
     private void gerarBotoesFilosReinoAnimal() {

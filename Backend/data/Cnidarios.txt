@@ -1,0 +1,11 @@
+Água-viva da Lua;Aurelia aurita;Medusa grande e transparente com tentáculos longos e urticantes.
+Coral-cérebro;Porites spp.;Forma colônias massivas com forma de cérebro.
+Anêmona-do-mar;Metridium senile;Animal fixo com tentáculos urticantes.
+Hidra;Hydra spp.;Pequeno animal com tentáculos urticantes.
+Caravela;Physalia physalis;Colônia de pólipos com uma bexiga gasosa.
+Anemone de mar;Anemonia spp.;Animal fixo com tentáculos urticantes.
+Coral-sol;Tubastraea coccinea;Forma colônias com pólipos coloridos.
+Medusa-caixa;Chironex fleckeri;Medusa pequena e extremamente venenosa.
+Ouriço-do-mar;Strongylocentrotus spp.;Animal com espinhos e um sistema ambulacral.
+Peixe-palhaço;Amphiprioninae;Vive em simbiose com anêmonas-do-mar.
+Tartaruga marinha;Cheloniidae;Animal marinho com carapaça dura.

@@ -1,0 +1,10 @@
+Musgo Comum;Bryum argenteum;Musgo verde-acinzentado, encontrado em ambientes úmidos e sombreados. Forma tapetes densos em troncos de árvores, rochas e solo.
+Hepática Talosa;Marchantia polymorpha;Hepática com talo verde e lobulado, crescendo em ambientes úmidos e sombreados. Possui rizoides para fixação no solo e estruturas reprodutivas em forma de disco.
+Antócero Comum;Anthoceros punctatus;Antócero com talo verde e ramificado, crescendo em ambientes úmidos e sombreados. Possui um esporângio único em forma de chifre.
+Sphagnum;Sphagnum spp.;Musgo de turfeira, encontrado em áreas úmidas e pantanosas. Possui alta capacidade de absorção de água e é usado em jardinagem e como material de curativo.
+Polytrichum Commune;Polytrichum commune;Musgo de grande porte, com caule ereto e ramificado. É encontrado em florestas úmidas e temperadas.
+Frullania Tamarisci;Frullania tamarisci;Hepática com talo folioso e ramificado, crescendo em árvores e rochas em ambientes úmidos.
+Riccia Fluitans;Riccia fluitans;Hepática aquática, com talo verde e flutuante. É encontrada em lagos, lagoas e rios.
+Buxbaumia Aphylla;Buxbaumia aphylla;Musgo sem folhas, com caule ereto e ramificado. É encontrado em florestas úmidas e temperadas.
+Plagiochila Asplenioides;Plagiochila asplenioides;Hepática com talo folioso e ramificado, crescendo em árvores e rochas em ambientes úmidos.
+Calypogeia Trichomanis;Calypogeia trichomanis;Hepática com talo folioso e ramificado, crescendo em árvores e rochas em ambientes úmidos.
