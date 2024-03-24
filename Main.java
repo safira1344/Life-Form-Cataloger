@@ -4,6 +4,7 @@ import javax.swing.SwingUtilities;
 
 import Backend.Backend;
 import Frontend.HomePage;
+import Frontend.Insert.InsertPage;
 import Models.Especies.Especie;
 
 public class Main {
@@ -14,16 +15,6 @@ public class Main {
     public static void main(String[] args) {
         // Chamar HomePage
         SwingUtilities.invokeLater(HomePage::new);
-        List<String> cordados = Backend.lerLinhasDeArquivo("Backend/data/cordados.txt");
-        for (String cordado : cordados) {
-            System.out.println(cordado);
-        }
-        
-        List<Especie> especieRetornada = Backend.getListaEspecies("Backend/data/Angiospermas.txt");
-        for (Especie especie : especieRetornada) {
-            System.out.println(especie.getNome());
-            System.out.println(especie.getNomeCientifico());
-            System.out.println(especie.getDescricao());
-        }
+
     }
 }

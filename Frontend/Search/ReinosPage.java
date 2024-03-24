@@ -4,6 +4,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+import Frontend.HomePage;
 import Frontend.fonts.Fonts;
 import Models.Reinos.Reino;
 
@@ -39,12 +40,22 @@ public class ReinosPage extends JFrame {
             positionY += 50;
         }
 
+        JButton backButton = new JButton("Voltar");
+        backButton.setBounds(300, 500, 200, 30);
+        super.add(backButton);
+        backButton.addActionListener(e -> buttonHomePage());
+
         super.setVisible(true);
     }
 
     private void buttonAction(String reino) {
         super.dispose();
         new FilosPage(reino);
+    }
+
+    private void buttonHomePage() {
+        super.dispose();
+        new HomePage();
     }
 
 }

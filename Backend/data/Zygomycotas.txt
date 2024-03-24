@@ -1,0 +1,7 @@
+Mofo Pao;Rhizopus stolonifer;Fungo filamentoso que cresce em pao e outros alimentos.
+Mofo Mucor;Mucor spp.;Fungo filamentoso que cresce em frutas e vegetais.
+Mofo Rhizopus;Rhizopus spp.;Fungo filamentoso que cresce em diversos ambientes.
+Cogumelo Morchella;Morchella spp.;Cogumelo comestivel com sabor e aroma distintos.
+Cogumelo Esponja;Morchella semilibera;Cogumelo comestivel com textura semelhante a esponja.
+Cogumelo Cesta de Cogumelos;Rhizopus arrhizus;Cogumelo comestivel com formato de cesta.
+Cogumelo Zygorhynchus;Zygorhynchus spp.;Cogumelo comestivel com sabor terroso.

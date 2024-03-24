@@ -1,0 +1,10 @@
+Alga Verde;Chlorella spp.;Microalga unicelular rica em proteinas e nutrientes.
+Alga Marrom;Fucus vesiculosus;Macroalga comestivel com propriedades medicinais.
+Alga Vermelha;Gracilaria bursa-pastoris;Macroalga usada na producao de agar-agar, um gelificante.
+Diatomacea;Thalassiosira pseudonana;Microalga unicelular importante na producao de oxigenio e na cadeia alimentar.
+Euglena;Euglena gracilis;Microalga unicelular com caracteristicas animais e vegetais.
+Dinoflagelado;Alexandrium tamarense;Microalga unicelular que pode causar mare vermelha.
+Sargassum;Sargassum fluitans;Macroalga que forma grandes bancos no oceano Atlantico.
+Chara;Chara vulgaris;Macroalga de agua doce que parece uma planta terrestre.
+Kelp;Laminaria digitata;Macroalga gigante que forma florestas subaquaticas.
+Coralina;Corallina officinalis;Macroalga vermelha que forma recifes subaquaticos.

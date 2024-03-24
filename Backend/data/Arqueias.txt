@@ -1,0 +1,9 @@
+Metanogeno;Methanobacterium thermoautotrophicum;Arqueia metanogenica que vive em ambientes anaerobicos e produz metano.
+Halofilo;Halobacterium salinarum;Arqueia extremofila que vive em ambientes com alta salinidade.
+Termofilo;Sulfolobus acidocaldarius;Arqueia extremofila que vive em ambientes com alta temperatura.
+Acidofilo;Picrophilus torridus;Arqueia extremofila que vive em ambientes com baixo pH.
+Arqueia Crenarchaeota;Thermoproteus tenax;Arqueia que vive em ambientes com alta temperatura e pH acido.
+Arqueia Euryarchaeota;Methanobrevibacter smithii;Arqueia metanogenica que vive no intestino de animais.
+Arqueia Korarchaeota;Candidatus Korarchaeum cryptofilum;Arqueia que vive em ambientes anaerobicos e de alta temperatura.
+Arqueia Nanoarchaeota;Candidatus Nanoarchaeum equitans;Arqueia que vive como endosimbionte de outras arqueias.
+Arqueia Thaumarchaeota;Nitrosopumilus maritimus;Arqueia que oxida amonia e vive em ambientes marinhos.

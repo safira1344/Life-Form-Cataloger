@@ -2,9 +2,11 @@ package Frontend;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
+import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+import Frontend.Insert.InsertPage;
 import Frontend.Search.ReinosPage;
 import Frontend.fonts.Fonts;
 
@@ -52,14 +54,9 @@ public class HomePage extends JFrame {
 
         // Eventos dos botões
         searchButton.addActionListener(e -> searchButtonListener());
-        registerButton.addActionListener(e -> System.out.println("registerButtonListener"));
-        aboutButton.addActionListener(e -> System.out.println("aboutButtonListener"));
+        registerButton.addActionListener(e -> registerButtonListener());
+        aboutButton.addActionListener(e -> aboutButtonListener());
         exitButton.addActionListener(e -> super.dispose());
-
-        // ImageIcon malu = new ImageIcon("Frontend/imgs/malu.jpeg");
-        // JLabel maluLabel = new JLabel(malu);
-        // maluLabel.setBounds(0, 0, 100, 100);
-        // super.add(maluLabel);
 
         super.setLayout(null);
 
@@ -73,11 +70,33 @@ public class HomePage extends JFrame {
     }
 
     public void registerButtonListener() {
-        System.out.println("registerButtonListener");
+        super.dispose();
+        new InsertPage();
     }
 
     public void aboutButtonListener() {
-        System.out.println("aboutButtonListener");
+        JDialog dialog = new JDialog();
+        dialog.setTitle("Sobre o projeto");
+        dialog.setSize(400, 400);
+        dialog.setResizable(false);
+        dialog.setLayout(null);
+
+        JLabel title = new JLabel("Catalogador de Seres Vivos");
+        title.setBounds(50, 25, 300, 60);
+        dialog.add(title);
+
+        JLabel description = new JLabel(
+                "<html> Este projeto é um catalogador de seres vivos,<br> onde é possível cadastrar e buscar seres vivos. Construído em Java e seguindo o paradigma de orientação a objetos. </html>");
+
+        description.setBounds(50, 100, 300, 100);
+        dialog.add(description);
+
+        JLabel creator = new JLabel(
+                "<html>Desenvolvido por: <br>Fernanda Mirely Barbosa Souza<br> Amanda de Jesus Melo</html>");
+        creator.setBounds(50, 200, 300, 100);
+        dialog.add(creator);
+
+        dialog.setVisible(true);
     }
 
 }

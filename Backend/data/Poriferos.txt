@@ -1,7 +1,7 @@
-Esponja de Rede;Halichondria panicea;Esponja macia e ramificada com cor variável (branca, amarela, laranja).
+Esponja de Rede;Halichondria panicea;Esponja macia e ramificada com cor variavel (branca, amarela, laranja).
 Esponja-do-mar Vermelha;Spongia officinalis;Esponja dura e em forma de almofada com cor vermelha.
-Esponja-de-vidro;Euplectella aspergillum;Esponja com corpo em forma de vaso e um esqueleto de espículas silicosas complexas.
-Esponja-de-fogo;Callyspongia plicifera;Esponja com cores vibrantes (vermelho, laranja, amarelo) e textura áspera.
+Esponja-de-vidro;Euplectella aspergillum;Esponja com corpo em forma de vaso e um esqueleto de espiculas silicosas complexas.
+Esponja-de-fogo;Callyspongia plicifera;Esponja com cores vibrantes (vermelho, laranja, amarelo) e textura aspera.
 Esponja-barril;Xestospongia muta;Esponja em forma de barril com cor marrom ou preta.
 Grantia compressa;Grantia compressa;Esponja incrustante com cor branca ou cinza.
 Sycon ciliatum;Sycon ciliatum;Esponja simples com corpo em forma de vaso.

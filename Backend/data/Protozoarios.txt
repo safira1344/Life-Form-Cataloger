@@ -1,0 +1,10 @@
+Paramecio;Paramecium caudatum;Protozoario ciliado com movimento rapido e reproducao por conjugacao.
+Ameba;Amoeba proteus;Protozoario ameboide com movimento lento e reproducao por divisao binaria.
+Euglena;Euglena gracilis;Protozoario flagelado com caracteristicas animais e vegetais.
+Giardia;Giardia lamblia;Protozoario flagelado parasita que causa giardiase.
+Plasmodium;Plasmodium falciparum;Protozoario esporozoario que causa malaria.
+Trypanosoma;Trypanosoma brucei gambiense;Protozoario flagelado parasita que causa a doenca do sono.
+Toxoplasma;Toxoplasma gondii;Protozoario esporozoario que causa toxoplasmose.
+Leishmania;Leishmania donovani;Protozoario flagelado parasita que causa leishmaniose.
+Foraminifero;Foraminifera spp.;Protozoario com concha calcaria que vive em ambientes marinhos e de agua doce.
+Radiolario;Radiolaria spp.;Protozoario com esqueleto silicoso que vive em ambientes marinhos.

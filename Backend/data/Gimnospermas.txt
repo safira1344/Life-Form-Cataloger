@@ -1,10 +1,10 @@
-Pinheiro;Pinus spp.;Florestas temperadas e boreais, Árvore alta com folhas em forma de agulha e cones.
-Cipreste;Cupressus spp.;Florestas temperadas e subtropicais, Árvore alta com folhas em forma de escama e cones.
-Cedro;Cedrus spp.;Florestas temperadas e montanhosas, Árvore alta com folhas em forma de agulha e cones.
-Sequoia;Sequoia spp.;Florestas temperadas da América do Norte, Árvore gigante com folhas em forma de escama e cones.
-Ginkgo biloba;Ginkgo biloba;Florestas temperadas da China, Árvore com folhas em forma de leque e frutos carnudos.
-Ephedra;Ephedra spp.;Regiões áridas e semi-áridas, Arbusto com folhas em forma de escama e frutos secos.
-Welwitschia mirabilis;Welwitschia mirabilis;Deserto do Namibe na África;Planta com duas folhas longas e perenes e cones.
+Pinheiro;Pinus spp.;Florestas temperadas e boreais, Arvore alta com folhas em forma de agulha e cones.
+Cipreste;Cupressus spp.;Florestas temperadas e subtropicais, Arvore alta com folhas em forma de escama e cones.
+Cedro;Cedrus spp.;Florestas temperadas e montanhosas, Arvore alta com folhas em forma de agulha e cones.
+Sequoia;Sequoia spp.;Florestas temperadas da America do Norte, Arvore gigante com folhas em forma de escama e cones.
+Ginkgo biloba;Ginkgo biloba;Florestas temperadas da China, Arvore com folhas em forma de leque e frutos carnudos.
+Ephedra;Ephedra spp.;Regioes aridas e semi-aridas, Arbusto com folhas em forma de escama e frutos secos.
+Welwitschia mirabilis;Welwitschia mirabilis;Deserto do Namibe na Africa;Planta com duas folhas longas e perenes e cones.
 Cycas revoluta;Cycas revoluta;Jardins ornamentais, Planta com folhas em forma de pena e cones.
 Zamia furfuracea;Zamia furfuracea;Jardins ornamentais, Planta com folhas em forma de pena e cones.
-Gnetum gnemon;Gnetum gnemon;Florestas tropicais da Ásia, Planta trepadeira com folhas em forma de oval e frutos carnudos.
+Gnetum gnemon;Gnetum gnemon;Florestas tropicais da Asia, Planta trepadeira com folhas em forma de oval e frutos carnudos.

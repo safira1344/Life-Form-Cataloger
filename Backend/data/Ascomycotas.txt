@@ -1,0 +1,10 @@
+Levedura de Cerveja;Saccharomyces cerevisiae;Fungo unicelular usado na fermentacao de cerveja e pao.
+Mofo Penicillium;Penicillium spp.;Fungo filamentoso que produz penicilina, um antibiotico importante.
+Mofo Aspergillus;Aspergillus spp.;Fungo filamentoso que pode causar alergias e doencas pulmonares.
+Cogumelo Morchella;Morchella spp.;Cogumelo comestivel com um sabor e aroma distintos.
+Cogumelo Trufa;Tuber spp.;Cogumelo comestivel subterraneo de alto valor gastronomico.
+Xylaria;Xylaria spp.;Fungo que apodrece a madeira e assume uma forma semelhante a um chifre.
+Cordyceps;Cordyceps spp.;Fungo parasita que infecta insetos e outros artropodes.
+Saccharomycopsis fibuligera;Saccharomycopsis fibuligera;Fungo usado na producao de vinho.
+Claviceps purpurea;Claviceps purpurea;Fungo que causa o ergot, uma doenca do centeio.
+Neurospora crassa;Neurospora crassa;Fungo usado em pesquisas geneticas.

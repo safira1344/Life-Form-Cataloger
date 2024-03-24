@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.JButton;
+import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
@@ -18,7 +19,7 @@ import Models.Especies.Especie;
 
 public class EspeciesPage extends JFrame {
     // Extrair as especies de um arquivo de texto
-    
+
     private int screenWidth = 800;
     private int screenHeight = 600;
 
@@ -68,6 +69,14 @@ public class EspeciesPage extends JFrame {
         // Criar a lista de espécies
         JList<String> listaEspecies = new JList<>(especiesRetornadas.toArray(new String[0]));
 
+        // add action listener to the list
+        listaEspecies.addListSelectionListener(e -> {
+            // Se a seleção não estiver mudando entre seleção e desseleção
+            if (!e.getValueIsAdjusting()) {
+                buttonAction(listaEspecies.getSelectedValue(), filo);
+            }
+        });
+
         // Adicionar a lista a um JScrollPane para torná-la rolável
         JScrollPane scrollPane = new JScrollPane(listaEspecies);
         scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
@@ -90,5 +99,34 @@ public class EspeciesPage extends JFrame {
     private void buttonHomePage() {
         super.dispose();
         new HomePage();
+    }
+
+    public void buttonAction(String especie, String filo) {
+        showPopupInfo(especie, filo);
+    }
+
+    private void showPopupInfo(String especie, String filo) {
+        // Mostrar informações da espécie
+        Especie especieRetornada = Backend.buscarEspecie("Backend/data/" + filo + ".txt", especie);
+
+        String nome = especieRetornada.getNome();
+        String nomeCientifico = especieRetornada.getNomeCientifico();
+        String descricao = especieRetornada.getDescricao();
+
+        JDialog dialog = new JDialog();
+        dialog.setTitle("Informações da espécie");
+        dialog.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
+        dialog.setLayout(null);
+
+        JLabel infoLabel = new JLabel("<html>Nome: " + nome + "<br>Nome científico: " + nomeCientifico
+                + "<br>Descrição: " + descricao + "</html>");
+
+        dialog.add(infoLabel);
+        infoLabel.setBounds(50, 50, 300, 200);
+
+        dialog.setVisible(true);
+
+        dialog.setSize(400, 400);
+
     }
 }

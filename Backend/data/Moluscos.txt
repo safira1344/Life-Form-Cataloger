@@ -1,10 +1,10 @@
-Lula;Loligo vulgaris;Animal com tentáculos e um sifão.
-Polvo;Octopus vulgaris;Animal com oito tentáculos e um sifão.
-Caracol;Helix aspersa;Animal com concha espiral e um pé musculoso.
-Lesma;Limax maximus;Animal sem concha e um pé musculoso.
-Mexilhão;Mytilus edulis;Animal com duas conchas valvas e um sifão.
-Ostra;Crassostrea gigas;Animal com duas conchas valvas e um sifão.
-Vieira;Pecten maximus;Animal com duas conchas valvas e um pé musculoso.
-Náutilo;Nautilus pompilius;Animal com concha espiral e tentáculos.
+Lula;Loligo vulgaris;Animal com tentaculos e um sifao.
+Polvo;Octopus vulgaris;Animal com oito tentaculos e um sifao.
+Caracol;Helix aspersa;Animal com concha espiral e um pe musculoso.
+Lesma;Limax maximus;Animal sem concha e um pe musculoso.
+Mexilhao;Mytilus edulis;Animal com duas conchas valvas e um sifao.
+Ostra;Crassostrea gigas;Animal com duas conchas valvas e um sifao.
+Vieira;Pecten maximus;Animal com duas conchas valvas e um pe musculoso.
+Nautilo;Nautilus pompilius;Animal com concha espiral e tentaculos.
 Chiton;Chiton spp.;Animal com concha formada por oito placas.
 Solenogastres;Solenogastres;Animal vermiforme sem concha.

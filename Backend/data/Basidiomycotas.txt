@@ -1,0 +1,27 @@
+Cogumelo Champignon;Agaricusbisporus;Cogumelo comestivel branco e popular.
+Cogumelo Portobello;Agaricusbisporus;Cogumelo comestivel marrom e maduro da mesma especie do champignon.
+Cogumelo Shiitake;Lentinulaedodes;Cogumelo comestivel com sabor e aroma terrosos.
+Cogumelo Pleurotus;Pleurotusspp.;Cogumelo comestivel com diferentes cores e texturas.
+Cogumelo Ostra;Pleurotusostreatus;Cogumelo comestivel em forma de concha.
+Cogumelo Gengibre;Pleurotusdjamor;Cogumelo comestivel com aroma e sabor de gengibre.
+Cogumelo ReiTrumpet;Pleurotuseryngii;Cogumelo comestivel com textura firme e sabor delicado.
+Cogumelo Maitake;Grifolafondosa;Cogumelo comestivel com sabor forte e textura semelhante a carne de frango.
+Cogumelo Hedgehog;Hydnumrepandum;Cogumelo comestivel com espinhos na parte inferior.
+Cogumelo Chanterelle;Cantharelluscibarius;Cogumelo comestivel com cor amarela e sabor frutado.
+Cogumelo Porcini;Boletustedulis;Cogumelo comestivel com sabor e aroma terrosos.
+Cogumelo Crimini;Agaricusbisporus;Cogumelo comestivel marrom e imaturo da mesma especie do champignon.
+Cogumelo Enoki;Flammulinavelutipes;Cogumelo comestivel com textura crocante e sabor delicado.
+Cogumelo Pompom;Hericiumerinaceus;Cogumelo comestivel com aparencia de pompom branco.
+Cogumelo Coral;Ramariasp.;Cogumelo comestivel com ramificacoes em forma de coral.
+Cogumelo Trombeta da Morte;Craterelluscornucopioides;Cogumelo comestivel em forma de trombeta preta.
+Cogumelo Lingua de Vaca;Fistulinalepatica;Cogumelo comestivel com textura gelatinosa e sabor de carne.
+Cogumelo Laetiporus;Laetiporussulphureus;Cogumelo comestivel com cor laranja e textura semelhante a carne de frango.
+Cogumelo Auricularia;Auriculariaauricula-judae;Cogumelo comestivel com textura gelatinosa e sabor suave.
+Cogumelo Tremella;Tremellamesenterica;Cogumelo comestivel com textura gelatinosa e sabor suave.
+Cogumelo Coprinus;Coprinuscomatus;Cogumelo comestivel com sabor semelhante a tinta.
+Cogumelo Schizophyllum;Schizophyllumcommune;Cogumelo comestivel com textura fibrosa e sabor delicado.
+Cogumelo Lyophyllum;Lyophyllumdecastes;Cogumelo comestivel com sabor semelhante a ostra.
+Cogumelo Russula;Russulaspp.;Cogumelo comestivel com cores vibrantes e sabor picante.
+Cogumelo Lactarius;Lactariusspp.;Cogumelo comestivel com sabor picante e textura leitosa.
+Cogumelo Paxillus;Paxillusinvolutus;Cogumelo toxico com sabor semelhante a carne de caranguejo.
+Cogumelo Amanita;Amanitaspp.;Cogumelo venenoso com diferentes cores e formas.

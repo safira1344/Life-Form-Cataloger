@@ -58,7 +58,17 @@ public class FilosPage extends JFrame {
 
         }
 
+        JButton backButton = new JButton("Voltar");
+        backButton.setBounds(300, 500, 200, 30);
+        super.add(backButton);
+        backButton.addActionListener(e -> buttonReinosPage());
+
         super.setVisible(true);
+    }
+
+    private void buttonReinosPage() {
+        super.dispose();
+        new ReinosPage();
     }
 
     private void createButton(String filo) {

@@ -1,0 +1,11 @@
+Actinobacteria;Actinobacteria spp.;bacterias gram-positivas com alto teor de gc em seu dna, muitas vezes com formas filamentosas. sao importantes na decomposicao de compostos organicos e na producao de antibioticos
+Bacilli;Bacilli spp.;bacterias gram-positivas com forma de bastonete. Incluem patogenos como bacillus anthracis (causador do carbunculo) e lactobacillus spp. (usadas na producao de iogurte e queijo).
+Bacteroidetes;Bacteroidetes spp.;bacterias gram-negativas com diversas formas e tamanhos. Sao importantes na decomposicao de polissacarideos e na microbiota intestinal humana.
+Clostridia;Clostridia spp.;bacterias gram-positivas com forma de bastonete, muitas vezes anaerobicas. Incluem patogenos como clostridium botulinum (causador do botulismo) e clostridium difficile (causador de diarreia).
+Cyanobacteria;Cyanobacteria spp.;bacterias fotossinteticas com clorofila a, tambem conhecidas como algas azuis. Sao importantes na producao de oxigenio e na fixacao de nitrogenio.
+Deinococcus-Thermus;Deinococcus-Thermus spp.;bacterias gram-negativas com alta resistencia a radiacao e ao calor. Sao importantes em estudos de biotecnologia e astrobiologia.
+Epsilonproteobacteria;Epsilonproteobacteria spp.;bacterias gram-negativas com diversas formas e tamanhos. incluem patogenos como helicobacter pylori (causador de ulceras gastricas) e campylobacter jejuni (causador de gastroenterite).
+Flavobacteria;Flavobacteria spp.;bacterias gram-negativas com forma de bastonete. Sao importantes na decomposicao de compostos organicos e na producao de enzimas.
+Gammaproteobacteria;Gammaproteobacteria spp.;bacterias gram-negativas com diversas formas e tamanhos. Incluem patogenos como escherichia coli (causador de diarreia) e pseudomonas aeruginosa (causador de infeccoes pulmonares).
+Mollicutes;Mollicutes spp.;bacterias gram-negativas sem parede celular. Incluem patogenos como mycoplasma pneumoniae (causador de pneumonia) e ureaplasma urealyticum (causador de doencas urogenitais).
+Spirochaetes;Spirochaetes spp.;bacterias gram-negativas com forma espiral. Incluem patogenos como treponema pallidum (causador da sifilis) e borrelia burgdorferi (causador da doenca de lyme).

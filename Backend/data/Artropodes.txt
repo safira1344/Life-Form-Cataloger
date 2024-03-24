@@ -1,8 +1,8 @@
-Aranha;Araneae;Aracnídeo com oito patas, presas e glândulas produtoras de seda para construção de teias.
+Aranha;Araneae;Aracnídeo com oito patas, presas e glandulas produtoras de seda para construcao de teias.
 Formiga;Formicidae;Inseto social com seis patas, corpo dividido em segmentos e um complexo sistema de castas.
-Borboleta;Lepidoptera;Inseto com asas coloridas, uma probóscide para se alimentar de néctar e um ciclo de vida metamórfico completo.
-Besouro;Coleoptera;Inseto com élitros (asas anteriores) rígidos, peças bucais mastigadoras e uma ampla variedade de espécies.
-Caranguejo;Decapoda;Crustáceo com carapaça larga, dez patas e adaptado para habitats terrestres e aquáticos.
-Centopeia;Chilopoda;Miriápode com muitas pernas (até centenas), presas venenosas e corpo achatado.
-Escorpião;Scorpiones;Aracnídeo com corpo segmentado, pinças e um ferrão venenoso na ponta da cauda.
-Mosquito;Culicidae;Inseto com probóscide longa para se alimentar de sangue, duas asas e um papel na transmissão de doenças.
+Borboleta;Lepidoptera;Inseto com asas coloridas, uma proboscide para se alimentar de nectar e um ciclo de vida metamorfico completo.
+Besouro;Coleoptera;Inseto com elitros (asas anteriores) rígidos, peças bucais mastigadoras e uma ampla variedade de especies.
+Caranguejo;Decapoda;Crustaceo com carapaça larga, dez patas e adaptado para habitats terrestres e aquaticos.
+Centopeia;Chilopoda;Miriapode com muitas pernas (ate centenas), presas venenosas e corpo achatado.
+Escorpiao;Scorpiones;Aracnideo com corpo segmentado, pinças e um ferrao venenoso na ponta da cauda.
+Mosquito;Culicidae;Inseto com proboscide longa para se alimentar de sangue, duas asas e um papel na transmissao de doenças.
